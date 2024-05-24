@@ -27,7 +27,7 @@ This package uses the best of the NodeJS world under the hood. [Telegraf](https:
 ## Installation
 
 ```bash
-$ npm i nestjs-telegraf telegraf
+$ npm i @mitakohir/nestjs-telegraf telegraf
 ```
 
 ## Documentation
