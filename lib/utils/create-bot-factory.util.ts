@@ -9,7 +9,9 @@ export async function createBotFactory(
   bot.use(...(options.middlewares ?? []));
 
   if (options.launchOptions !== false) {
-    bot.launch(options.launchOptions);
+    bot
+      .launch(options.launchOptions)
+      .catch((e) => console.log('There was an error during bot lauch: ', e));
   }
 
   return bot;

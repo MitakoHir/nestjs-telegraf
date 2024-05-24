@@ -1,6 +1,6 @@
 {
   "name": "nestjs-telegraf",
-  "version": "2.7.0",
+  "version": "2.7.1",
   "description": "Telegraf module for NestJS",
   "keywords": [
     "nest",
@@ -18,16 +18,9 @@
   "bugs": {
     "url": "https://github.com/evilsprut/nestjs-telegraf/issues"
   },
-  "repository": "git@github.com:evilsprut/nestjs-telegraf.git",
-  "funding": "https://hypeer.company/donate",
+  "repository": "https://github.com/MitakoHir/nestjs-telegraf",
   "license": "MIT",
-  "author": "Aleksandr Bukhalo <evilsprut@icloud.com>",
-  "contributors": [
-    {
-      "name": "Arthur Asimov",
-      "email": "arthur.asimov.z0@gmail.com"
-    }
-  ],
+  "author": "Iurii Topychkanov <iurii.topychkanov@gmail.com>",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
