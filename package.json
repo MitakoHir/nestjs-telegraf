@@ -1,6 +1,6 @@
 {
   "name": "@mitakohir/nestjs-telegraf",
-  "version": "2.7.3",
+  "version": "2.7.4",
   "description": "Telegraf module for NestJS",
   "keywords": [
     "nest",
